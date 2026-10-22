@@ -72,3 +72,10 @@ All scripts are available as standalone tools or as discounted workflow bundles:
 - [All Scripts Bundle](https://jsxteam.com/products/bundle-all)
 
 Visit the full [Script Catalog on JSX Team](https://jsxteam.com/scripts) for detailed technical specifications and requirements.
+## Free utility — Cleaner Outside Artboards
+
+[Cleaner-Outside-Artboards.jsx](./Cleaner-Outside-Artboards.jsx) removes visible, unlocked objects that are completely outside every artboard in the active Adobe Illustrator document.
+
+Useful for final file cleanup before export or handoff. Compatible with Adobe Illustrator 2025–2026 on macOS and Windows.
+
+For production-ready Illustrator automation tools, visit [JSX-Team](https://jsxteam.com).
