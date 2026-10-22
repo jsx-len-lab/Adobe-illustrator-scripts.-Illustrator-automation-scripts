@@ -1,0 +1,2 @@
+# Adobe-illustrator-scripts.-Illustrator-automation-scripts
+JSX-Team creates production-ready Adobe Illustrator 2025–2026 scripts for macOS and Windows. Automate repetitive design work: close open paths, fit and place artwork, batch-export files, manage swatches, gradients, artboards, and stock-ready vector preparation. Explore scripts, documentation, and licenses: https://jsxteam.com Built for designers.
