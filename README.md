@@ -3,8 +3,7 @@
 A curated collection of automation scripts (`.jsx`) and workflow tools for **Adobe Illustrator 2025 and 2026** on macOS and Windows by [JSX Team](https://jsxteam.com).
 
 Designed to eliminate repetitive vector tasks: raster-to-vector color mapping, batch artboard export, automatic open path closing, tiny shape merging, and composition placement.
-Free tool: Looking to clean up stray artwork outside your artboards? Check out 
----
+
 
 ## Solutions by Task
 
