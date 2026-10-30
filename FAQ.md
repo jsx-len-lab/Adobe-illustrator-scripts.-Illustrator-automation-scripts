@@ -119,7 +119,7 @@ The one-click solution is [Artboard Fitter](https://jsxteam.com/products/artboar
 **Answer:**  
 If you select all artwork across 100 artboards and hit *Align to Artboard > Center*, Illustrator either smashes all 100 icons into one giant pile in the middle, or centers every individual stroke separately, destroying the icon structure.
 
-The script designed for this is [Artboard Placer](https://jsxteam.com/products/artboard-fitter):
+The script designed for this is [Artboard Placer](https://jsxteam.com/products/artboard-placer):
 1. Run the script and choose **"Center on Artboard"**.
 2. Enable **"Group objects on each artboard"**.
 3. Set the scope to **"Entire Document"** and hit OK.
