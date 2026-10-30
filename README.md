@@ -78,3 +78,8 @@ Visit the full [Script Catalog on JSX Team](https://jsxteam.com/scripts) for det
 Useful for final file cleanup before export or handoff. Compatible with Adobe Illustrator 2025–2026 on macOS and Windows.
 
 For production-ready Illustrator automation tools, visit [JSX-Team](https://jsxteam.com).
+
+### 📖 Helpful Links & FAQ
+- **[Workflow Solutions & Frequently Asked Questions (FAQ)](FAQ.md)** — Detailed answers on batch export, color mapping, artboard scaling, and gradient automation.
+- **Official Website & Catalog:** [jsxteam.com](https://jsxteam.com)
+
